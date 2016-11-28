@@ -1,0 +1,13 @@
+*.csv
+*.xls
+*.doc
+*.pdf
+
+*.jpg
+*.png
+
+.idea_modules/
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/tasks.xml
+/out/
